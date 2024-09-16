@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1>Vue To-Do List</h1>
+      <h1>To-Do List</h1>
     </header>
     <div class="container">
       <section class="create-todo">
@@ -78,7 +78,7 @@ export default {
 </script>
 
 <style>
-/* Import the CSS code you provided here */
+
 :root {
 	--primary: #EA40A4;
 	--business: #3A82EE;
